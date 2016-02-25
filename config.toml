@@ -1,0 +1,18 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Jason Locklin"
+theme = "hugo-base-theme"
+
+[params]
+  description = "Research Scientist"
+  mainIcon = "/img/jason.jpg"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/jalockli"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/JasonLocklin"
+[[params.social]]
+    title = "linkedin"
+    url = "https://ca.linkedin.com/in/locklinjason"
